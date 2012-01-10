@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+	<comment>Temporary Properties</comment>
+	<entry key="hostname">localhost</entry>
+	<entry key="dbname">db</entry>
+	<entry key="username">user</entry>
+	<entry key="password">pass</entry>
+</properties>
